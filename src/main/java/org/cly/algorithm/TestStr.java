@@ -72,6 +72,9 @@ public class TestStr {
 
     public static String longestCommonPrefix03(String[] strs){
 
+
+
+
         return "";
     }
 }
